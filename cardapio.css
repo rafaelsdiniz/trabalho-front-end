@@ -1,0 +1,311 @@
+body{
+    background-color: #ff6833;
+    margin: 0%;
+}
+.menu{
+    background-color: #fff;
+    height: 80px;  
+    display: flex;
+    justify-content: space-around;   
+    height: 34px;
+}
+.menu h1{
+font-size: 50px;
+display: flex;
+justify-content: left;
+
+
+}
+.crocks{
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 600px;
+    
+}
+.crocks h3{
+    font-size: 30px;
+}
+.crocks p{
+    font-size: 25px;   
+}
+ 
+.faroeste{
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 600px;
+
+   
+}
+.faroeste h3{
+    font-size: 30px;
+}
+.faroeste p{
+    font-size: 25px;   
+}
+
+.smokedbacon{
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 600px;
+ 
+}
+.smokedbacon h3{
+    font-size: 30px;
+}
+.smokedbacon p{
+    font-size: 25px;   
+}
+
+.johnnycavalo{
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 600px;
+   
+}
+.johnnycavalo h3{
+    font-size: 30px;
+}
+.johnnycavalo p{
+    font-size: 25px;   
+}
+
+.carneseca{
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 600px;
+ 
+}
+.carneseca h3{
+    font-size: 30px;
+}
+.carneseca p{
+    font-size: 25px;   
+}
+
+.metido{
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 600px;
+   
+}
+.metido h3{
+    font-size: 30px;
+}
+.metido p{
+    font-size: 25px;   
+}
+.img{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    align-items: center;
+}
+.img1{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    align-items: center;
+}
+
+.img2{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    align-items: center;
+}
+.img3{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    align-items: center;
+}
+.img4{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    align-items: center;
+}
+.img5{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    align-items: center;
+}
+.cabeçalho {
+    font-size: 50px;
+    text-align: center;
+    background-color: #fff;
+}
+
+
+.logo {
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+}
+
+  
+
+
+
+.img button {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.img button:active {
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
+
+  .img button {
+    padding: 0.25em 0.75em;
+}
+.img1 button {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .img1 button:active {
+    box-shadow: 0px 0px 0px 0px;
+    top: 5px;
+    left: 5px;
+  }
+  
+    .img1 button {
+      padding: 0.25em 0.75em;
+  }
+
+  .img2 button {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .img2 button:active {
+    box-shadow: 0px 0px 0px 0px;
+    top: 5px;
+    left: 5px;
+  }
+  
+    .img2 button {
+      padding: 0.25em 0.75em;
+  }
+
+  .img3 button {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .img3 button:active {
+    box-shadow: 0px 0px 0px 0px;
+    top: 5px;
+    left: 5px;
+  }
+  
+    .img3 button {
+      padding: 0.25em 0.75em;
+  }
+
+  .img4 button {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .img4 button:active {
+    box-shadow: 0px 0px 0px 0px;
+    top: 5px;
+    left: 5px;
+  }
+  
+    .img4 button {
+      padding: 0.25em 0.75em;
+  }
+  
+  .img5 button {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .img5 button:active {
+    box-shadow: 0px 0px 0px 0px;
+    top: 5px;
+    left: 5px;
+  }
+  
+    .img5 button {
+      padding: 0.25em 0.75em;
+  }
+  
